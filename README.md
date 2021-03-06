@@ -4,6 +4,7 @@ Implementation of the collapsed Gibbs sampling for joint sentiment-topic (JST) m
 Note: set working directory (modify path as needed) 
 
 Instruction:
+
     Run "preprocessing1.R" file
     Run "preprocessing2.R" file
     Run "JST.R" file
