@@ -5,6 +5,6 @@ Note: set working directory (modify path as needed)
 
 Instruction:
 
-    Run "preprocessing1.R" file
-    Run "preprocessing2.R" file
-    Run "JST.R" file
+1.  Run "preprocessing1.R" file
+2.  Run "preprocessing2.R" file
+3.  Run "JST.R" file
